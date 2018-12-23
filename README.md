@@ -8,6 +8,6 @@ kicks = 'your file directory path'
 snares = 'your file directory path' 
 hats = 'your file directory path'
 
-The kicks, snare and hihats have multiple files in each folder while the bass is one single audio file. The drum sounds are a part of an 808 drum sample packet that I downloaded for free at: https://soundpacks.com/free-sound-packs/808-drum-kit/
+The kicks, snare and hihats have multiple files in each folder. The drum sounds are a part of an 808 drum sample packet that I downloaded for free at: https://soundpacks.com/free-sound-packs/808-drum-kit/ I have also included a zip file for the drums sounds in this repo.
 
 Link to youtube video: https://youtu.be/wQ-aBGY2Ntg
